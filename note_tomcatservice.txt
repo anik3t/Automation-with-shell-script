@@ -1,0 +1,5 @@
+first download and install openjdk 
+set classpath for java_home in environment
+add group tomcat
+add user tomcat with installation directory /opt/tomcat
+write the script in /etc/systemd/system/tomcat.service
